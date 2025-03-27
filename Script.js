@@ -35,7 +35,7 @@ while (continuar) {
     let comisionVendedor = 0
   
     let procesarVentas = true
-    while (procesoVentas) {
+    while (continuar) {
       let opcion = prompt(
         'Categorías de productos:\n' +
           '1. Electrodomésticos (Neveras, Lavadoras, Microondas) - 5% comisión\n' +
